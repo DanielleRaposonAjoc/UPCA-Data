@@ -1,0 +1,624 @@
+,app_status,pass_course,pass_courseDegreeChoice,pass_campus,pass_campusFirstChoice,pass_pursue,pass_otherUniversity,waitlist_course,waitlist_campus,dpwas_campus,campus
+0,No,,,,,,,,,,crc
+1,No,,,,,,,,,,crc
+2,No,,,,,,,,,,crc
+3,No,,,,,,,,,,crc
+4,No,,,,,,,,,,crc
+5,No,,,,,,,,,,crc
+6,No,,,,,,,,,,crc
+7,No,,,,,,,,,,crc
+8,No,,,,,,,,,,crc
+9,No,,,,,,,,,,crc
+10,Yes,BS ARCHITECTURE,1st Degree,UP MINDANAO,No,yes,,,,,crc
+11,No,,,,,,,,,,crc
+12,DPWAS,,,,,,,,,UP VISAYAS,crc
+13,No,,,,,,,,,,crc
+14,DPWAS,,,,,,,,,UP VISAYAS,crc
+15,DPWAS,,,,,,,,,UP ILOILO,crc
+16,No,,,,,,,,,,crc
+17,No,,,,,,,,,,crc
+18,Waitlisted,,,,,,,BS APPLIED MATHEMATICS,UP MINDANAO,UP MINDANAO,crc
+19,No,,,,,,,,,,crc
+20,No,,,,,,,,,,crc
+21,Waitlisted,,,,,,,BS BIOLOGY,UP CEBU,,crc
+22,No,,,,,,,,,,crc
+23,No,,,,,,,,,,crc
+24,No,,,,,,,,,,crc
+25,No,,,,,,,,,,crc
+26,No,,,,,,,,,,crc
+27,Yes,BS AGRICULTURAL BIOTECHNOLOGY,4th Degree,UP LOS BANOS,No,no,DE LA SALLE UNIVERSITY,,,,crc
+28,Yes,BS AGRICULTURAL BIOTECHNOLOGY,4th Degree,UP LOS BANOS,No,not sure,ATENEO DE MANILA UNIVERSITY,,,,crc
+29,No,,,,,,,,,,crc
+30,No,,,,,,,,,,crc
+31,No,,,,,,,,,,crc
+32,DPWAS,,,,,,,,,UP VISAYAS,crc
+33,No,,,,,,,,,,crc
+34,No,,,,,,,,,,crc
+35,No,,,,,,,,,,crc
+36,DPWAS,,,,,,,,,UP ILOILO,crc
+37,No,,,,,,,,,,crc
+38,No,,,,,,,,,,crc
+39,No,,,,,,,,,,crc
+40,No,,,,,,,,,,crc
+41,Yes,BS STATISTICS,3rd Degree,UP VISAYAS,No,no,,,,,crc
+42,No,,,,,,,,,,crc
+43,DPWAS,,,,,,,,,UP ILOILO,crc
+44,No,,,,,,,,,,crc
+45,Yes,BS STATISTICS,5th Degree,UP VISAYAS,No,no,DE LA SALLE UNIVERSITY,,,,crc
+46,DPWAS,,,,,,,,,UP VISAYAS,crc
+47,No,,,,,,,,,,crc
+48,Yes,BS ECONOMICS,1st Degree,UP VISAYAS,No,yes,,,,,crc
+49,No,,,,,,,,,,crc
+50,No,,,,,,,,,,crc
+51,No,,,,,,,,,,crc
+52,No,,,,,,,,,,crc
+53,No,,,,,,,,,,crc
+54,No,,,,,,,,,,crc
+55,No,,,,,,,,,,crc
+56,No,,,,,,,,,,crc
+57,No,,,,,,,,,,crc
+0,No,,,,,,,,,,cbzrc
+1,No,,,,,,,,,,cbzrc
+2,No,,,,,,,,,,cbzrc
+3,No,,,,,,,,,,cbzrc
+4,Yes,BS Biology,1st Degree,UP LOS BANOS,No,yes,,,,,cbzrc
+5,Yes,BS AGRICULTURAL AND BIOSYSTEMS ENGINEERING,4th Degree,UP LOS BANOS,No,not sure,PHILIPPINE STATE COLLEGE OF AERONAUTICS,,,,cbzrc
+6,No,,,,,,,,,,cbzrc
+7,No,,,,,,,,,,cbzrc
+8,No,,,,,,,,,,cbzrc
+9,No,,,,,,,,,,cbzrc
+10,Yes,BS AGRICULTURAL AND BIOSYSTEMS ENGINEERING,3rd Degree,UP LOS BANOS,Yes,yes,,,,,cbzrc
+11,No,,,,,,,,,,cbzrc
+12,No,,,,,,,,,,cbzrc
+13,Yes,BS BIOLOGY,1st Degree,UP LOS BANOS,No,yes,,,,,cbzrc
+14,Waitlisted,,,,,,,BS BIOCHEMISTRY,UP MANILA,,cbzrc
+15,No,,,,,,,,,,cbzrc
+16,Yes,BS APPLIED PHYSICS,1st Degree,UP DILIMAN,Yes,yes,,,,,cbzrc
+17,Yes,BS CHEMICAL ENGINEERING ,1st Degree,UP DILIMAN,Yes,no,ATENEO DE MANILA UNIVERSITY,,,,cbzrc
+18,No,,,,,,,,,,cbzrc
+19,No,,,,,,,,,,cbzrc
+20,No,,,,,,,,,,cbzrc
+21,No,,,,,,,,,,cbzrc
+22,Yes,BS NUTRITION,3rd Degree,UP LOS BANOS,No,yes,,,,,cbzrc
+23,No,,,,,,,,,,cbzrc
+24,No,,,,,,,,,,cbzrc
+25,Yes,BS MATHEMATICS AND SCIENCE TEACHING,3rd Degree,UP LOS BANOS,No,yes,,,,,cbzrc
+26,No,,,,,,,,,,cbzrc
+27,No,,,,,,,,,,cbzrc
+28,No,,,,,,,,,,cbzrc
+29,No,,,,,,,,,,cbzrc
+30,No,,,,,,,,,,cbzrc
+31,DPWAS,,,,,,,,,UP LOS BANOS,cbzrc
+32,DPWAS,,,,,,,,,UP DILIMAN,cbzrc
+33,No,,,,,,,,,,cbzrc
+34,No,,,,,,,,,,cbzrc
+35,Yes,BS COMPUTER ENGINEERING,2nd Degree,UP DILIMAN,Yes,yes,,,,,cbzrc
+36,No,,,,,,,,,,cbzrc
+37,No,,,,,,,,,,cbzrc
+38,No,,,,,,,,,,cbzrc
+39,No,,,,,,,,,,cbzrc
+40,No,,,,,,,,,,cbzrc
+41,Yes,BS PHYSICS,1st Degree,UP DILIMAN,Yes,yes,,,,,cbzrc
+42,Yes,BS COMPUTER ENGINEERING,2nd Degree,UP DILIMAN,Yes,not sure,,,,,cbzrc
+43,No,,,,,,,,,,cbzrc
+44,Yes,BS BIOLOGY,1st Degree,UP LOS BANOS,No,no,ATENEO DE MANILA UNIVERSITY,,,,cbzrc
+45,No,,,,,,,,,,cbzrc
+46,Yes,BS VETERINARY MEDICINE,1st Degree,UP LOS BANOS,Yes,yes,,,,,cbzrc
+47,No,,,,,,,,,,cbzrc
+48,No,,,,,,,,,,cbzrc
+49,No,,,,,,,,,,cbzrc
+50,Yes,BS MECHANICAL ENGINEERING ,2nd Degree,UP DILIMAN,Yes,no,,,,,cbzrc
+51,No,,,,,,,,,,cbzrc
+52,Yes,BS MOLECULAR BIOLOGY AND BIOTECHNOLOGY,1st Degree,UP DILIMAN,Yes,yes,,,,,cbzrc
+53,No,,,,,,,,,,cbzrc
+54,No,,,,,,,,,,cbzrc
+55,No,,,,,,,,,,cbzrc
+56,No,,,,,,,,,,cbzrc
+57,Yes,BS ELECTRONICS ENGINEERING,1st Degree,UP DILIMAN,Yes,yes,,,,,cbzrc
+58,Yes,BS MECHANICAL ENGINEERING,1st Degree,UP LOS BANOS,No,yes,,,,,cbzrc
+59,No,,,,,,,,,,cbzrc
+60,Yes,BS COMPUTER SCIENCE,1st Degree,UP LOS BANOS,No,yes,,,,,cbzrc
+61,No,,,,,,,,,,cbzrc
+62,No,,,,,,,,,,cbzrc
+63,No,,,,,,,,,,cbzrc
+64,No,,,,,,,,,,cbzrc
+65,No,,,,,,,,,,cbzrc
+66,No,,,,,,,,,,cbzrc
+67,Yes,BS CHEMICAL ENGINEERING,2nd Degree,UP LOS BANOS,No,not sure,DE LA SALLE UNIVERSITY,,,,cbzrc
+68,No,,,,,,,,,,cbzrc
+69,No,,,,,,,,,,cbzrc
+70,No,,,,,,,,,,cbzrc
+71,No,,,,,,,,,,cbzrc
+72,No,,,,,,,,,,cbzrc
+73,No,,,,,,,,,,cbzrc
+74,Yes,BS BIOLOGY,1st Degree,UP LOS BANOS,No,yes,,,,,cbzrc
+75,No,,,,,,,,,,cbzrc
+76,No,,,,,,,,,,cbzrc
+77,No,,,,,,,,,,cbzrc
+78,No,,,,,,,,,,cbzrc
+0,No,,,,,,,,,,clc
+1,Yes,BS GEOLOGY,2nd Degree,UP DILIMAN,Yes,yes,,,,,clc
+2,No,,,,,,,,,,clc
+3,Yes,BS BIOCHEMISTRY,1st Degree,UP MANILA,Yes,not sure,,,,,clc
+4,DPWAS,,,,,,,,,UP DILIMAN,clc
+5,Yes,BS CHEMISTRY,2nd Degree,UP LOS BANOS,No,yes,,,,,clc
+6,No,,,,,,,,,,clc
+7,Yes,BS AGRIBUSINESS MANAGEMENT AND ENTREPRENEURSHIP,1st Degree,UP LOS BANOS,No,yes,,,,,clc
+8,No,,,,,,,,,,clc
+9,Yes,BS CHEMICAL ENGINEERING,1st Degree,UP DILIMAN,Yes,yes,,,,,clc
+10,No,,,,,,,,,,clc
+11,No,,,,,,,,,,clc
+12,Yes,BS COMPUTER ENGINEERING,1st Degree,UP DILIMAN,Yes,yes,,,,,clc
+13,No,,,,,,,,,,clc
+14,No,,,,,,,,,,clc
+15,Yes,BS CHEMISTRY,2nd Degree,UP DILIMAN,Yes,yes,,,,,clc
+16,DPWAS,,,,,,,,,UP MANILA,clc
+17,Yes,BS INDUSTRIAL ENGINEERING,1st Degree,UP DILIMAN,Yes,yes,,,,,clc
+18,No,,,,,,,,,,clc
+19,No,,,,,,,,,,clc
+20,No,,,,,,,,,,clc
+21,No,,,,,,,,,,clc
+22,Yes,BS COMPUTER SCIENCE,1st Degree,UP DILIMAN,Yes,yes,,,,,clc
+23,DPWAS,,,,,,,,,UP DILIMAN,clc
+24,Yes,BS COMPUTER SCIENCE,1st Degree,UP DILIMAN,Yes,no,ATENEO DE MANILA UNIVERSITY,,,,clc
+25,Yes,BS PHYSICS,1st Degree,UP DILIMAN,Yes,no,ATENEO DE MANILA UNIVERSITY,,,,clc
+26,Yes,BS OCCUPATIONAL THERAPY,1st Degree,UP MANILA,Yes,no,DE LA SALLE UNIVERSITY,,,,clc
+27,No,,,,,,,,,,clc
+28,Yes,BS BIOCHEMISTRY,1st Degree,UP MANILA,Yes,no,University of Santo Tomas,,,,clc
+29,Yes,BS BIOLOGY,1st Degree,UP BAGUIO,No,yes,,,,,clc
+30,No,,,,,,,,,,clc
+31,No,,,,,,,,,,clc
+32,DPWAS,,,,,,,,,UP MANILA,clc
+33,DPWAS,,,,,,,,,UP MANILA,clc
+34,Yes,BS ELECTRICAL ENGINEERING,1st Degree,UP LOS BANOS,No,yes,,,,,clc
+35,Yes,BS CIVIL ENGINEERING,1st Degree,UP DILIMAN,Yes,yes,,,,,clc
+36,Yes,BS APPLIED PHYSICS,1st Degree,UP DILIMAN,Yes,not sure,,,,,clc
+37,No,,,,,,,,,,clc
+38,Yes,BS PUBLIC HEALTH,1st Degree,UP MANILA,Yes,not sure,,,,,clc
+39,Yes,BS MECHANICAL ENGINEERING,3rd Degree,UP DILIMAN,Yes,yes,,,,,clc
+40,DPWAS,,,,,,,,,UP LOS BANOS,clc
+41,DPWAS,,,,,,,,,UP DILIMAN,clc
+42,No,,,,,,,,,,clc
+43,Yes,BS PHARMACEUTICAL SCIENCES,1st Degree,UP MANILA,Yes,no,ATENEO DE MANILA UNIVERSITY,,,,clc
+44,Yes,BS ELECTRONICS ENGINEERING,1st Degree,UP DILIMAN,Yes,not sure,ATENEO DE MANILA UNIVERSITY,,,,clc
+45,No,,,,,,,,,,clc
+46,Yes,BS COMPUTER SCIENCE,2nd Degree,UP BAGUIO,No,no,AUF (Angeles University Foundation),,,,clc
+47,No,,,,,,,,,,clc
+48,Yes,BS PUBLIC HEALTH,1st Degree,UP MANILA,Yes,not sure,,,,,clc
+49,No,,,,,,,,,,clc
+50,Yes,BS GEOGRAPHY,3rd Degree,UP DILIMAN,Yes,yes,,,,,clc
+51,Yes,BS COMPUTER SCIENCE,1st Degree,UP DILIMAN,Yes,yes,,,,,clc
+52,No,,,,,,,,,,clc
+53,No,,,,,,,,,,clc
+54,Yes,BS CHEMISTRY,1st Degree,UP DILIMAN,Yes,yes,,,,,clc
+55,No,,,,,,,,,,clc
+56,No,,,,,,,,,,clc
+57,DPWAS,,,,,,,,,UP MANILA,clc
+58,Yes,BS ELECTRONICS ENGINEERING,1st Degree,UP DILIMAN,Yes,yes,,,,,clc
+59,DPWAS,,,,,,,,,UP DILIMAN,clc
+60,DPWAS,,,,,,,,,UP MANILA,clc
+62,No,,,,,,,,,,clc
+63,Yes,BS MATHEMATICS,3rd Degree,UP DILIMAN,Yes,not sure,,,,,clc
+64,Yes,BS COMPUTER SCIENCE,1st Degree,UP BAGUIO,No,yes,,,,,clc
+65,Yes,BS CHEMICAL ENGINEERING,1st Degree,UP DILIMAN,Yes,not sure,DE LA SALLE UNIVERSITY,,,,clc
+66,No,,,,,,,,,,clc
+67,DPWAS,,,,,,,,,UP MANILA,clc
+68,Yes,BS PUBLIC HEALTH,1st Degree,UP MANILA,Yes,yes,,,,,clc
+69,Yes,BS APPLIED PHYSICS,1st Degree,UP MANILA,Yes,no,DE LA SALLE UNIVERSITY,,,,clc
+70,No,,,,,,,,,,clc
+0,DPWAS,,,,,,,,,UP LOS BANOS,cvc
+1,No,,,,,,,,,,cvc
+2,No,,,,,,,,,,cvc
+3,No,,,,,,,,,,cvc
+4,No,,,,,,,,,,cvc
+5,DPWAS,,,,,,,,,UP MANILA,cvc
+6,Yes,BS APPLIED PHYSICS,3rd Degree,UP DILIMAN,Yes,yes,,,,,cvc
+7,No,,,,,,,,,,cvc
+8,No,,,,,,,,,,cvc
+9,Yes,BS STATISTICS,1st Degree,UP LOS BANOS,Yes,no,,,,,cvc
+10,No,,,,,,,,,,cvc
+11,No,,,,,,,,,,cvc
+12,Yes,BS PHYSICS,3rd Degree,UP DILIMAN,Yes,yes,,,,,cvc
+13,No,,,,,,,,,,cvc
+14,DPWAS,,,,,,,,,UP LOS BANOS,cvc
+15,No,,,,,,,,,,cvc
+16,DPWAS,,,,,,,,,UP LOS BANOS,cvc
+17,No,,,,,,,,,,cvc
+18,Yes,BS COMPUTER SCIENCE,1st Degree,UP LOS BANOS,No,yes,,,,,cvc
+19,No,,,,,,,,,,cvc
+20,No,,,,,,,,,,cvc
+21,No,,,,,,,,,,cvc
+22,No,,,,,,,,,,cvc
+23,Waitlisted,,,,,,,BS SPEECH PATHOLOGY,UP MANILA,UP MANILA,cvc
+24,Yes,BS COMPUTER SCIENCE,5th Degree,UP LOS BANOS,No,yes,,,,,cvc
+25,No,,,,,,,,,,cvc
+26,No,,,,,,,,,,cvc
+27,Yes,BS AGRICULTURAL BIOTECHNOLOGY,3rd Degree,UP LOS BANOS,No,not sure,,,,,cvc
+28,No,,,,,,,,,,cvc
+29,No,,,,,,,,,,cvc
+30,No,,,,,,,,,,cvc
+31,No,,,,,,,,,,cvc
+32,No,,,,,,,,,,cvc
+33,Waitlisted,,,,,,,BS SPEECH PATHOLOGY,UP MANILA,UP MANILA,cvc
+34,Yes,BS APPLIED PHYSICS,2nd Degree,UP LOS BANOS,No,not sure,,,,,cvc
+35,DPWAS,,,,,,,,,UP LOS BANOS,cvc
+36,No,,,,,,,,,,cvc
+37,DPWAS,,,,,,,,,UP MANILA,cvc
+38,No,,,,,,,,,,cvc
+39,No,,,,,,,,,,cvc
+40,No,,,,,,,,,,cvc
+41,No,,,,,,,,,,cvc
+42,Yes,BS APPLIED PHYSICS,1st Degree,UP LOS BANOS,No,not sure,,,,,cvc
+43,No,,,,,,,,,,cvc
+44,No,,,,,,,,,,cvc
+45,No,,,,,,,,,,cvc
+46,Yes,BS NUTRITION,2nd Degree,UP LOS BANOS,No,not sure,University of Santo Tomas (UST),,,,cvc
+47,No,,,,,,,,,,cvc
+48,Yes,BS METALLURGICAL ENGINEERING,2nd Degree,UP DILIMAN,Yes,no,ATENEO DE MANILA UNIVERSITY,,,,cvc
+49,No,,,,,,,,,,cvc
+50,Waitlisted,,,,,,,BS SPEECH PATHOLOGY,UP MANILA,UP MANILA,cvc
+51,No,,,,,,,,,,cvc
+52,No,,,,,,,,,,cvc
+53,Yes,BS FOOD TECHNOLOGY,3rd Degree,UP LOS BANOS,No,not sure,,,,,cvc
+54,DPWAS,,,,,,,,,UP MANILA,cvc
+55,No,,,,,,,,,,cvc
+56,No,,,,,,,,,,cvc
+57,No,,,,,,,,,,cvc
+58,No,,,,,,,,,,cvc
+59,No,,,,,,,,,,cvc
+60,Yes,BS VETERINARY MEDICINE,,UP LOS BANOS,No,not sure,IDK,,,,cvc
+61,No,,,,,,,,,,cvc
+62,No,,,,,,,,,,cvc
+63,Yes,BS BIOLOGY,1st Degree,UP LOS BANOS,No,not sure,DE LA SALLE UNIVERSITY,,,,cvc
+64,Yes,BS MATERIALS ENGINEERING,3rd Degree,UP DILIMAN,Yes,not sure,NOT SURE,,,,cvc
+65,No,,,,,,,,,,cvc
+66,Yes,BS FAMILY LIFE AND CHILD DEVELOPMENT,3rd Degree,UP DILIMAN,Yes,no,ATENEO DE MANILA UNIVERSITY,,,,cvc
+67,No,,,,,,,,,,cvc
+68,No,,,,,,,,,,cvc
+69,No,,,,,,,,,,cvc
+0,Yes,BS ELECTRICAL ENGINEERING,1st Degree,UP DILIMAN,Yes,yes,,,,,evc
+1,Yes,BS ELECTRONICS ENGINEERING,1st Degree,UP DILIMAN,Yes,yes,,,,,evc
+2,Yes,BS FISHERIES,5th Degree,UP VISAYAS,No,no,ATENEO DE MANILA UNIVERSITY,,,,evc
+3,DPWAS,,,,,,,,,UP ILOILO,evc
+4,Yes,BS MOLECULAR BIOLOGY AND BIOTECHNOLOGY,1st Degree,UP DILIMAN,Yes,no,ATENEO DE MANILA UNIVERSITY,,,,evc
+5,Yes,BS BIOLOGY,1st Degree,UP VISAYAS,No,yes,,,,,evc
+6,Yes,BS PHYSICS,2nd Degree,UP DILIMAN,Yes,no,--,,,,evc
+7,DPWAS,,,,,,,,,UP DILIMAN,evc
+8,Yes,BS GEODETIC ENGINEERING,3rd Degree,UP DILIMAN,Yes,yes,,,,,evc
+9,No,,,,,,,,,,evc
+10,Yes,BS ELECTRONICS ENGINEERING,1st Degree,UP DILIMAN,Yes,no,ATENEO DE MANILA UNIVERSITY,,,,evc
+11,Yes,BS BIOLOGY,2nd Degree,UP VISAYAS,No,no,ATENEO DE MANILA UNIVERSITY,,,,evc
+12,Yes,BS CLOTHING TECHNOLOGY,1st Degree,UP DILIMAN,Yes,yes,,,,,evc
+13,No,,,,,,,,,,evc
+14,Yes,BS FOOD TECHNOLOGY,1st Degree,UP VISAYAS,No,yes,,,,,evc
+15,DPWAS,,,,,,,,,UP DILIMAN,evc
+16,Yes,BS Biology,1st Degree,UP VISAYAS,No,no,Visayas State University,,,,evc
+17,Yes,BS INDUSTRIAL ENGINEERING,1st Degree,UP DILIMAN,Yes,yes,,,,,evc
+18,Yes,BS CHEMICAL ENGINEERING,1st Degree,UP DILIMAN,Yes,not sure,,,,,evc
+19,DPWAS,,,,,,,,,UP LOS BANOS,evc
+20,Waitlisted,,,,,,,BS BIOLOGY,UP VISAYAS,,evc
+21,No,,,,,,,,,,evc
+22,Waitlisted,,,,,,,BS PUBLIC HEALTH,UP MANILA,,evc
+23,No,,,,,,,,,,evc
+24,Yes,BS CHEMISTRY,1st Degree,UP DILIMAN,Yes,not sure,ATENEO DE MANILA UNIVERSITY,,,,evc
+25,DPWAS,,,,,,,,,UP DILIMAN,evc
+26,Yes,BS COMPUTER SCIENCE,1st Degree,UP VISAYAS,No,no,DE LA SALLE UNIVERSITY,,,,evc
+27,Yes,BS PSYCHOLOGY,1st Degree,UP DILIMAN,Yes,not sure,ATENEO DE MANILA UNIVERSITY,,,,evc
+28,DPWAS,,,,,,,,,UP DILIMAN,evc
+29,DPWAS,,,,,,,,,UP DILIMAN,evc
+30,Yes,BS MECHANICAL ENGINEERING,1st Degree,UP DILIMAN,Yes,yes,,,,,evc
+31,No,,,,,,,,,,evc
+32,Yes,BS OCCUPATIONAL THERAPY,3rd Degree,UP MANILA,Yes,no,,,,,evc
+33,Yes,BS FOOD TECHNOLOGY,1st Degree,UP VISAYAS,No,yes,,,,,evc
+34,Yes,BS PHARMACEUTICAL SCIENCES ,2nd Degree,UP MANILA,Yes,yes,,,,,evc
+35,Yes,BS AGRICULTURAL CHEMISTRY,2nd Degree,UP LOS BANOS,No,no,ATENEO DE MANILA UNIVERSITY,,,,evc
+36,Yes,BS COMPUTER SCIENCE,2nd Degree,UP VISAYAS,No,no,DE LA SALLE UNIVERSITY,,,,evc
+37,Yes,BS METALLURGICAL ENGINEERING,4th Degree,UP DILIMAN,Yes,yes,,,,,evc
+38,Yes,BS BIOLOGY,1st Degree,UP VISAYAS,No,not sure,,,,,evc
+39,No,,,,,,,,,,evc
+40,Yes,BS COMPUTER ENGINEERING,4th Degree,UP DILIMAN,Yes,no,ATENEO DE MANILA UNIVERSITY,,,,evc
+41,No,,,,,,,,,,evc
+42,Yes,BS COMPUTER ENGINEERING,1st Degree,UP DILIMAN,Yes,yes,,,,,evc
+43,DPWAS,,,,,,,,,UP DILIMAN,evc
+44,Yes,BS BIOLOGY,1st Degree,UP VISAYAS,No,not sure,DE LA SALLE UNIVERSITY,,,,evc
+45,Yes,BS FOOD TECHNOLOGY,2nd Degree,UP VISAYAS,No,yes,,,,,evc
+46,Yes,BS CIVIL ENGINEERING,1st Degree,UP DILIMAN,Yes,not sure,DE LA SALLE UNIVERSITY,,,,evc
+47,Yes,BS CIVIL ENGINEERING,1st Degree,UP DILIMAN,Yes,yes,,,,,evc
+48,DPWAS,,,,,,,,,UP MANILA,evc
+49,Yes,BS BIOLOGY,4th Degree,UP MANILA,Yes,no,,,,,evc
+50,Yes,BS ELECTRONICS ENGINEERING,1st Degree,UP DILIMAN,Yes,yes,,,,,evc
+51,DPWAS,,,,,,,,,UP DILIMAN,evc
+52,Yes,BS BIOLOGY,5th Degree,UP VISAYAS,No,not sure,,,,,evc
+53,Yes,BS CHEMICAL ENGINEERING,1st Degree,UP DILIMAN,Yes,yes,,,,,evc
+54,No,,,,,,,,,,evc
+0,No,,,,,,,,,,carc
+1,DPWAS,,,,,,,,,UP BAGUIO,carc
+2,No,,,,,,,,,,carc
+3,No,,,,,,,,,,carc
+4,Yes,BS GEOLOGY,1st Degree,UP DILIMAN,Yes,yes,,,,,carc
+5,Yes,BS HOME ECONOMICS,3rd Degree,UP DILIMAN,Yes,yes,,,,,carc
+6,Yes,BS HUMAN ECOLOGY,1st Degree,UP LOS BANOS,No,yes,,,,,carc
+7,Yes,BS COMPUTER SCIENCE,1st Degree,UP BAGUIO,Yes,yes,,,,,carc
+8,Yes,BS CHEMISTRY,2nd Degree,UP DILIMAN,Yes,yes,,,,,carc
+9,Yes,BS ELECTRONICS ENGINEERING,1st Degree,UP DILIMAN,Yes,yes,,,,,carc
+10,Yes,BS COMPUTER ENGINEERING,2nd Degree,UP DILIMAN,Yes,yes,,,,,carc
+11,No,,,,,,,,,,carc
+12,Yes,BS ELECTRONICS ENGINEERING,1st Degree,UP DILIMAN,Yes,yes,,,,,carc
+13,No,,,,,,,,,,carc
+14,No,,,,,,,,,,carc
+15,Yes,BS CHEMICAL ENGINEERING,1st Degree,UP DILIMAN,Yes,not sure,ATENEO DE MANILA UNIVERSITY,,,,carc
+16,No,,,,,,,,,,carc
+17,DPWAS,,,,,,,,,UP DILIMAN,carc
+18,No,,,,,,,,,,carc
+19,Yes,BA POLITICAL SCIENCE,3rd Degree,UP DILIMAN,Yes,yes,,,,,carc
+20,Yes,BS METALLURGICAL ENGINEERING,2nd Degree,UP DILIMAN,Yes,yes,,,,,carc
+21,DPWAS,,,,,,,,,UP MANILA,carc
+22,Yes,BS FOOD TECHNOLOGY,4th Degree,UP DILIMAN,Yes,yes,,,,,carc
+23,Yes,BS PHARMACEUTICAL SCIENCES,2nd Degree,UP MANILA,Yes,yes,,,,,carc
+24,DPWAS,,,,,,,,,UP MANILA,carc
+25,DPWAS,,,,,,,,,UP MANILA,carc
+26,DPWAS,,,,,,,,,UP MANILA,carc
+27,No,,,,,,,,,,carc
+28,Yes,BS BIOCHEMISTRY,1st Degree,UP MANILA,Yes,yes,,,,,carc
+29,No,,,,,,,,,,carc
+30,No,,,,,,,,,,carc
+31,Yes,BS ELECTRONICS ENGINEERING,1st Degree,UP DILIMAN,Yes,yes,,,,,carc
+32,No,,,,,,,,,,carc
+33,Yes,BS VETERINARY MEDICINE,4th Degree,UP LOS BANOS,Yes,not sure,Philippine State College of Aeronautics(if admitted),,,,carc
+34,Yes,BS PHARMACEUTICAL SCIENCES,1st Degree,UP MANILA,Yes,yes,,,,,carc
+35,Yes,BS PHARMACEUTICAL SCIENCES,1st Degree,UP MANILA,Yes,not sure,,,,,carc
+36,No,,,,,,,,,,carc
+37,DPWAS,,,,,,,,,UP MANILA,carc
+38,No,,,,,,,,,,carc
+39,Yes,BS APPLIED PHYSICS,1st Degree,UP LOS BANOS,No,not sure,"I will pursue UP if they allow me to transfer to UPB Com Sci. If they don't allow the transfer and I don't pass on the DOST Scholarship, I will pursue my course and campus. If they don't allow the transfer but I pass the DOST Scholarship, I will go to SLU to study Electrical Engineering.  ",,,,carc
+40,Yes,BS COMPUTER SCIENCE,1st Degree,UP DILIMAN,Yes,yes,,,,,carc
+41,No,,,,,,,,,,carc
+42,Waitlisted,,,,,,,BS MATH,UP BAGUIO,,carc
+43,Yes,BS CHEMICAL ENGINEERING,1st Degree,UP DILIMAN,Yes,no,ATENEO DE MANILA UNIVERSITY,,,,carc
+44,No,,,,,,,,,,carc
+45,No,No,,,,,,,,,carc
+46,DPWAS,,,,,,,,,UP BAGUIO,carc
+47,No,,,,,,,,,,carc
+48,Yes,BS COMPUTER SCIENCE,2nd Degree,UP BAGUIO,No,not sure,SAINT LOUIS UNIVERSITY BAGUIO CITY,,,,carc
+49,Yes,BS CHEMICAL ENGINEERING,1st Degree,UP LOS BANOS,Yes,yes,,,,,carc
+50,Yes,BS COMPUTER SCIENCE,1st Degree,UP LOS BANOS,No,not sure,MAPUA,,,,carc
+51,No,,,,,,,,,,carc
+52,Yes,BS CHEMICAL ENGINEERING ,1st Degree,UP DILIMAN,Yes,yes,,,,,carc
+53,No,,,,,,,,,,carc
+54,Yes,BS COMPUTER SCIENCE,1st Degree,UP BAGUIO,Yes,yes,,,,,carc
+55,Yes,BS PHARMACEUTICAL SCIENCES,1st Degree,UP MANILA,Yes,yes,,,,,carc
+56,Yes,BS MATERIALS ENGINEERING,2nd Degree,UP DILIMAN,Yes,yes,,,,,carc
+57,Yes,BS PHARMACEUTICAL SCIENCES,4th Degree,UP MANILA,Yes,yes,none,,,,carc
+58,DPWAS,,,,,,,,,UP MANILA,carc
+59,Yes,BS AGRICULTURAL AND BIOSYSTEMS ENGINEERING,2nd Degree,UP LOS BANOS,No,yes,,,,,carc
+60,No,,,,,,,,,,carc
+61,No,,,,,,,,,,carc
+62,No,,,,,,,,,,carc
+63,Yes,BS COMPUTER SCIENCE,3rd Degree,UP BAGUIO,Yes,no,SLU BAGUIO,,,,carc
+64,No,,,,,,,,,,carc
+65,No,,,,,,,,,,carc
+66,No,,,,,,,,,,carc
+67,No,,,,,,,,,,carc
+68,Yes,BS COMPUTER ENGINEERING,1st Degree,UP DILIMAN,Yes,yes,,,,,carc
+69,Yes,BS CHEMICAL ENGINEERING ,2nd Degree,UP DILIMAN,Yes,yes,,,,,carc
+70,No,,,,,,,,,,carc
+71,Yes,BS PHYSICS,1st Degree,UP BAGUIO,Yes,yes,,,,,carc
+0,Yes,BS PUBLIC HEALTH,1st Degree,UP MANILA,Yes,not sure,UST,,,,irc
+1,No,,,,,,,,,,irc
+2,No,,,,,,,,,,irc
+3,No,,,,,,,,,,irc
+4,No,,,,,,,,,,irc
+5,Yes,BS FOOD TECHNOLOGY,4th Degree,UP DILIMAN,Yes,not sure,,,,,irc
+6,Yes,BS BUSINESS ADMINISTRATION,2nd Degree,UP DILIMAN,Yes,no,DE LA SALLE UNIVERSITY,,,,irc
+7,No,,,,,,,,,,irc
+8,Yes,BS NUTRITION,1st Degree,UP LOS BANOS,No,not sure,UST,,,,irc
+9,No,,,,,,,,,,irc
+10,No,,,,,,,,,,irc
+11,Yes,BS APPLIED PHYSICS,4th Degree,UP DILIMAN,Yes,not sure,ATENEO DE MANILA UNIVERSITY,,,,irc
+12,DPWAS,,,,,,,,,UP LOS BANOS,irc
+13,Yes,BS COMPUTER SCIENCE,1st Degree,UP LOS BANOS,No,yes,,,,,irc
+14,Yes,BS BIOLOGY,1st Degree,UP DILIMAN,Yes,yes,,,,,irc
+15,DPWAS,,,,,,,,,UP DILIMAN,irc
+16,Yes,BS FOOD TECHNOLOGY,4th Degree,UP LOS BANOS,No,yes,,,,,irc
+17,Yes,BS FOOD TECHNOLOGY ,3rd Degree,UP DILIMAN,Yes,not sure,,,,,irc
+18,No,,,,,,,,,,irc
+19,No,,,,,,,,,,irc
+20,No,,,,,,,,,,irc
+21,No,,,,,,,,,,irc
+22,Yes,BS BIOLOGY,1st Degree,UP LOS BANOS,Yes,yes,,,,,irc
+23,DPWAS,,,,,,,,,UP DILIMAN,irc
+24,Yes,BS MATERIALS ENGINEERING,3rd Degree,UP DILIMAN,Yes,yes,,,,,irc
+25,Yes,BS APPLIED MATHEMATICS,1st Degree,UP LOS BANOS,Yes,no,DE LA SALLE UNIVERSITY,,,,irc
+26,No,,,,,,,,,,irc
+27,Waitlisted,,,,,,,BS BIOLOGY,UP MANILA,,irc
+28,DPWAS,,,,,,,,,UP MANILA,irc
+29,DPWAS,,,,,,,,,UP LOS BANOS,irc
+30,Yes,BS BIOLOGY,1st Degree,UP DILIMAN,Yes,yes,N/a,,,,irc
+31,No,,,,,,,,,,irc
+32,No,,,,,,,,,,irc
+33,DPWAS,,,,,,,,,UP MANILA,irc
+34,Yes,BS COMMUNITY NUTRITION,1st Degree,UP DILIMAN,Yes,not sure,UST ,,,,irc
+35,No,,,,,,,,,,irc
+36,Yes,BS PUBLIC HEALTH,1st Degree,UP MANILA,Yes,not sure,DE LA SALLE UNIVERSITY,,,,irc
+37,No,,,,,,,,,,irc
+38,No,,,,,,,,,,irc
+39,Yes,BS AGRICULTURE,2nd Degree,UP LOS BANOS,No,not sure,,,,,irc
+40,No,,,,,,,,,,irc
+41,Yes,BS FOOD TECHNOLOGY,4th Degree,UP LOS BANOS,No,not sure,,,,,irc
+42,Yes,BS AGRICULTURE,3rd Degree,UP LOS BANOS,No,not sure,DE LA SALLE UNIVERSITY,,,,irc
+43,No,,,,,,,,,,irc
+44,Yes,BS AGRICULTURE,,UP LOS BANOS,No,yes,,,,,irc
+45,No,,,,,,,,,,irc
+46,DPWAS,,,,,,,,,UP DILIMAN,irc
+47,Waitlisted,,,,,,,BS FOOD TECHNOLOGY,UP LOS BANOS,UP LOS BANOS,irc
+48,Yes,BS COMMUNITY NUTRITION,3rd Degree,UP DILIMAN,No,yes,,,,,irc
+49,Yes,BS COMPUTER SCIENCE,3rd Degree,UP MANILA,Yes,not sure,,,,,irc
+50,Yes,BS AGRICULTURE,4th Degree,UP LOS BANOS,No,not sure,,,,,irc
+51,DPWAS,,,,,,,,,UP MANILA,irc
+52,Yes,BS BIOLOGY,1st Degree,UP LOS BANOS,No,yes,,,,,irc
+53,Yes,BS AGRICULTURAL CHEMISTRY,4th Degree,UP LOS BANOS,No,not sure,,,,,irc
+54,No,,,,,,,,,,irc
+55,No,,,,,,,,,,irc
+56,No,,,,,,,,,,irc
+57,Yes,BS ELECTRONICS ENGINEERING,1st Degree,UP DILIMAN,Yes,yes,,,,,irc
+58,Yes,BS APPLIED PHYSICS,1st Degree,UP LOS BANOS,No,not sure,DE LA SALLE UNIVERSITY,,,,irc
+59,DPWAS,,,,,,,,,UP MANILA,irc
+60,No,,,,,,,,,,irc
+61,No,,,,,,,,,,irc
+62,No,,,,,,,,,,irc
+63,No,,,,,,,,,,irc
+64,No,,,,,,,,,,irc
+65,No,,,,,,,,,,irc
+66,No,,,,,,,,,,irc
+67,DPWAS,,,,,,,,,UP LOS BANOS,irc
+68,No,,,,,,,,,,irc
+69,No,,,,,,,,,,irc
+70,Yes,BS ELECTRONICS ENGINEERING,1st Degree,UP DILIMAN,Yes,no,,,,,irc
+71,No,,,,,,,,,,irc
+0,Yes,BS COMPUTER SCIENCE,1st Degree,UP MANILA,Yes,no,,,,,smc
+1,DPWAS,,,,,,,,,UP MANILA,smc
+2,Yes,BS ARCHITECTURE,1st Degree,UP MINDANAO,No,not sure,MSU-IIT,,,,smc
+3,Yes,BS NUTRITION,1st Degree,UP LOS BANOS,No,not sure,,,,,smc
+4,Yes,BA FINE ARTS,1st Degree,UP DILIMAN,Yes,yes,,,,,smc
+5,Yes,BS CIVIL ENGINEERING,1st Degree,UP DILIMAN,Yes,yes,,,,,smc
+6,Yes,BS CHEMICAL ENGINEERING,2nd Degree,UP VISAYAS,No,yes,,,,,smc
+7,No,,,,,,,,,,smc
+8,Yes,BS NUTRITION,1st Degree,UP LOS BANOS,No,yes,,,,,smc
+9,Yes,BS CHEMICAL ENGINEERING,1st Degree,UP DILIMAN,Yes,not sure,,,,,smc
+10,Yes,BS CHEMISTRY,1st Degree,UP DILIMAN,Yes,no,ATENEO DE MANILA UNIVERSITY,,,,smc
+11,Yes,BS COMMUNITY NUTRITION,2nd Degree,UP DILIMAN,Yes,yes,,,,,smc
+12,Yes,BS COMPUTER ENGINEERING,1st Degree,UP DILIMAN,Yes,no,,,,,smc
+13,DPWAS,,,,,,,,,UP MANILA,smc
+14,No,,,,,,,,,,smc
+15,No,,,,,,,,,,smc
+16,Yes,BS FOOD TECHNOLOGY,5th Degree,UP VISAYAS,No,no,ATENEO DE MANILA UNIVERSITY,,,,smc
+17,Yes,BS BIOLOGY,1st Degree,UP LOS BANOS,No,no,,,,,smc
+18,Yes,BS FOOD TECHNOLOGY,1st Degree,UP MINDANAO,Yes,no,,,,,smc
+19,Yes,BS PUBLIC HEALTH,1st Degree,UP MANILA,Yes,yes,,,,,smc
+20,Yes,BS COMPUTER SCIENCE,1st Degree,UP MINDANAO,Yes,no,Ateneo de Davao University,,,,smc
+21,No,,,,,,,,,,smc
+22,DPWAS,,,,,,,,,UP MINDANAO,smc
+23,Yes,BS COMPUTER ENGINEERING,1st Degree,UP DILIMAN,Yes,no,Ateneo de Davao University ,,,,smc
+24,Yes,BS ARCHITECTURE,3rd Degree,UP MINDANAO,No,no,Malayan Colleges of Mindanao,,,,smc
+25,Yes,BS SPEECH PATHOLOGY,1st Degree,UP MANILA,Yes,no,University of Santo Tomas,,,,smc
+26,Yes,BS PHARMACEUTICAL SCIENCES,3rd Degree,UP MANILA,No,yes,N/A ,,,,smc
+27,DPWAS,,,,,,,,,UP MANILA,smc
+28,Yes,BS BIOLOGY,1st Degree,UP LOS BANOS,Yes,yes,SILLIMAN UNIVERSITY,,,,smc
+29,Yes,BS BIOLOGY,1st Degree,UP MINDANAO,No,yes,,,,,smc
+30,No,,,,,,,,,,smc
+31,Yes,BS APPLIED PHYSICS,3rd Degree,UP MANILA,Yes,not sure,DE LA SALLE UNIVERSITY,,,,smc
+32,No,,,,,,,,,,smc
+33,Yes,BS PUBLIC HEALTH,1st Degree,UP MANILA,Yes,yes,,,,,smc
+34,No,,,,,,,,,,smc
+35,DPWAS,,,,,,,,,UP MINDANAO,smc
+36,Yes,BS BIOLOGY,1st Degree,UP MINDANAO,No,yes,,,,,smc
+37,Yes,BS COMPUTER SCIENCE,1st Degree,UP MINDANAO,Yes,no,Malayan College Mindanao (MCM),,,,smc
+38,No,,,,,,,,,,smc
+39,Yes,BS ELECTRONICS ENGINEERING,1st Degree,UP DILIMAN,Yes,no,DE LA SALLE UNIVERSITY,,,,smc
+40,Yes,BS CHEMISTRY,1st Degree,UP LOS BANOS,No,not sure,,,,,smc
+41,Yes,BS CHEMISTRY,5th Degree,UP LOS BANOS,No,not sure,,,,,smc
+42,Yes,BS FOOD TECHNOLOGY,3rd Degree,UP VISAYAS,No,yes,,,,,smc
+43,No,,,,,,,,,,smc
+44,No,,,,,,,,,,smc
+45,Yes,BS BIOLOGY,4th Degree,UP MINDANAO,No,no,UST,,,,smc
+46,Yes,BS ELECTRONICS ENGINEERING,1st Degree,UP DILIMAN,Yes,yes,,,,,smc
+47,Yes,BS MOLECULAR BIOLOGY AND BIOTECHNOLOGY,1st Degree,UP DILIMAN,Yes,yes,,,,,smc
+48,No,,,,,,,,,,smc
+49,Yes,BS CHEMICAL ENGINEERING ,2nd Degree,UP LOS BANOS,Yes,yes,,,,,smc
+50,Yes,BS COMPUTER ENGINEERING,1st Degree,UP DILIMAN,Yes,yes,,,,,smc
+51,Yes,BS CHEMICAL ENGINEERING,1st Degree,UP DILIMAN,Yes,yes,,,,,smc
+52,No,,,,,,,,,,smc
+53,Yes,BS PUBLIC HEALTH,1st Degree,UP MANILA,Yes,not sure,UST,,,,smc
+54,Yes,BS ARCHITECTURE,1st Degree,UP DILIMAN,Yes,no,,,,,smc
+0,No,,,,,,,,,,src
+1,No,,,,,,,,,,src
+2,No,,,,,,,,,,src
+3,No,,,,,,,,,,src
+4,No,,,,,,,,,,src
+5,Yes,BS ANTHROPOLOGY,4th Degree,UP MINDANAO,No,yes,,,,,src
+6,No,,,,,,,,,,src
+7,No,,,,,,,,,,src
+8,No,,,,,,,,,,src
+9,No,,,,,,,,,,src
+10,No,,,,,,,,,,src
+11,Waitlisted,,,,,,,BS PHARMACEUTICAL SCIENCES,UP MANILA,,src
+12,No,,,,,,,,,,src
+13,Yes,BS FISHERIES,5th Degree,UP VISAYAS,No,yes,,,,,src
+14,No,,,,,,,,,,src
+15,No,,,,,,,,,,src
+16,DPWAS,,,,,,,,,UP VISAYAS,src
+17,No,,,,,,,,,,src
+18,DPWAS,,,,,,,,,UP VISAYAS,src
+19,No,,,,,,,,,,src
+20,No,,,,,,,,,,src
+21,No,,,,,,,,,,src
+22,No,,,,,,,,,,src
+23,Yes,BS FOOD TECHNOLOGY,4th Degree,UP VISAYAS,No,not sure,,,,,src
+24,No,,,,,,,,,,src
+25,No,,,,,,,,,,src
+26,No,,,,,,,,,,src
+27,No,,,,,,,,,,src
+28,No,,,,,,,,,,src
+29,No,,,,,,,,,,src
+30,No,,,,,,,,,,src
+31,No,,,,,,,,,,src
+32,No,,,,,,,,,,src
+33,No,,,,,,,,,,src
+34,No,,,,,,,,,,src
+35,Yes,BS CHEMICAL ENGINEERING,1st Degree,UP VISAYAS,No,yes,,,,,src
+36,Yes,BS CHEMICAL ENGINEERING,2nd Degree,UP VISAYAS,No,yes,,,,,src
+37,No,,,,,,,,,,src
+38,No,,,,,,,,,,src
+39,Yes,BS CHEMICAL ENGINEERING,1st Degree,UP VISAYAS,No,not sure,,,,,src
+40,No,,,,,,,,,,src
+41,No,,,,,,,,,,src
+42,Yes,BS COMPUTER SCIENCE,1st Degree,UP VISAYAS,Yes,not sure,Most probably MSU IIT,,,,src
+43,No,,,,,,,,,,src
+44,Yes,BS ARCHITECTURE,1st Degree,UP MINDANAO,No,not sure,,,,,src
+45,No,,,,,,,,,,src
+46,No,,,,,,,,,,src
+47,No,,,,,,,,,,src
+48,No,,,,,,,,,,src
+49,No,,,,,,,,,,src
+50,No,,,,,,,,,,src
+51,No,,,,,,,,,,src
+52,No,,,,,,,,,,src
+53,Yes,BS CHEMISTRY,1st Degree,UP VISAYAS,No,not sure,,,,,src
+54,Yes,BS AGRIBUSINESS ECONOMICS,4th Degree,UP MINDANAO,No,no,WVSU,,,,src
+55,No,,,,,,,,,,src
+56,No,,,,,,,,,,src
+57,No,,,,,,,,,,src
+58,No,,,,,,,,,,src
+59,No,,,,,,,,,,src
+60,Yes,BS FOOD TECHNOLOGY,1st Degree,UP MINDANAO,Yes,not sure,,,,,src
+61,Yes,BS COMPUTER SCIENCE,1st Degree,UP LOS BANOS,Yes,not sure,MSU-IIT,,,,src
+62,No,,,,,,,,,,src
+63,DPWAS,,,,,,,,,UP MINDANAO,src
+64,No,,,,,,,,,,src
+65,Yes,BS AGRIBUSINESS ECONOMICS,3rd Degree,UP MINDANAO,No,not sure,I’m not sure yet,,,,src
+66,No,,,,,,,,,,src
+67,No,,,,,,,,,,src
+68,No,,,,,,,,,,src
+69,No,,,,,,,,,,src
+70,No,,,,,,,,,,src
+71,No,,,,,,,,,,src
+72,No,,,,,,,,,,src
+73,No,,,,,,,,,,src
+74,Waitlisted,,,,,,,BS CHEMISTRY,UP VISAYAS,,src
+75,No,,,,,,,,,,src
+76,Yes,BS APPLIED MATHEMATICS,1st Degree,UP MINDANAO,No,no,ATENEO DE MANILA UNIVERSITY,,,,src
+77,No,,,,,,,,,,src
+78,Yes,BS FOOD TECHNOLOGY,1st Degree,UP VISAYAS,No,not sure,,,,,src
+79,No,,,,,,,,,,src
+80,No,,,,,,,,,,src
+81,Yes,BS FOOD TECHNOLOGY,2nd Degree,UP VISAYAS,No,no,WVSU,,,,src
+82,No,,,,,,,,,,src
+83,Yes,BS INDUSTRIAL ENGINEERING,2nd Degree,UP DILIMAN,Yes,no,DE LA SALLE UNIVERSITY,,,,src
+84,No,,,,,,,,,,src
+85,No,,,,,,,,,,src
+86,No,,,,,,,,,,src
+87,Waitlisted,,,,,,,BS FOOD TECHNOLOGY,UP VISAYAS,,src
+88,No,,,,,,,,,,src
+89,No,,,,,,,,,,src
+90,No,,,,,,,,,,src
+91,No,,,,,,,,,,src
